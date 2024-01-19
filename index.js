@@ -9,3 +9,4 @@ input.addEventListener('click', clickAlert);
 
 }
 
+console.log("test");
